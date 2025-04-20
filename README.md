@@ -18,5 +18,5 @@
 
 ---
 ## 📊 Estatísticas
-| ![Anselmo Ferrer GitHub Stats](![Anselmo-Ferrer's Stats](https://github-readme-stats.vercel.app/api?username=Anselmo-Ferrer&theme=prussian&show_icons=true&hide_border=true&count_private=true)) | ![Linguagens mais usadas](https://github-readme-stats.vercel.app/api/top-langs/?username=Anselmo-Ferrer&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9) |
+| ![Anselmo-Ferrer's Stats](https://github-readme-stats.vercel.app/api?username=Anselmo-Ferrer&theme=prussian&show_icons=true&hide_border=false&count_private=true) | ![Anselmo-Ferrer's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Anselmo-Ferrer&theme=prussian&show_icons=true&hide_border=false&layout=compact) |
 | --- | --- |
